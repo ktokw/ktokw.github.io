@@ -8,7 +8,7 @@ MBTI는 성격을 봤고, 이 테스트는 **생존 전략**을 본다.
 
 ## 바로가기
 
-**[테스트 시작하기 →](https://ktokw.github.io/ai-survival-test/)**
+**[테스트 시작하기 →](https://ktokw.github.io/)**
 
 ## 유형 구조
 
